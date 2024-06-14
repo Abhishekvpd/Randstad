@@ -1,0 +1,33 @@
+.card__container {
+    width: 250px;
+    height: 250px;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    position: relative;
+    cursor: pointer;
+    background-color: #83d6ed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 500;
+    color: rgb(49, 49, 49);
+}
+
+.card__container:hover {
+    background-color: rgb(130, 214, 237, 0.8);
+    transform: scale(1.02);
+}
+
+.item-count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 1rem;
+    border-radius: 50%;
+    transform: translate(+25%, -25%);
+    background-color: rgb(97, 115, 198);
+    color: #ffffff;
+    font-size: 1.25rem;
+}

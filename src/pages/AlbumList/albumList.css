@@ -1,0 +1,11 @@
+.album__title {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    color: rgb(55, 55, 55);
+}
+
+.album-list__container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}

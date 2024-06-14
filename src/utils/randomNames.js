@@ -1,0 +1,1 @@
+export const randomNames = ['Alex', 'Jordan', 'Taylor', 'Morgan', 'Casey', 'Riley', 'Peyton', 'Jamie', 'Cameron', 'Avery'];
